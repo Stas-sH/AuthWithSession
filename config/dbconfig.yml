@@ -1,0 +1,7 @@
+name: postgres
+host: "127.0.0.1"
+port: "5432"
+user: stas
+dbname: task6
+sslmode: disable
+password: "1234"
